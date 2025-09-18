@@ -1,1 +1,2 @@
-TBD
+# Relativistic Synchrotron Shock Modeling
+This code accompanies the paper 'Numerical Modeling of Relativistic Effects in Synchrotron-Emitting Shocks' ([Ferguson &amp; Margalit 2025]; hereafter FM25). The code presented here calculates the total synchrotron flux from a spherically symmetric, adiabatically expanding shock wave of arbitrary (possibly relativistic) velocity, accounting for synchrotron emission and self-absorption. Relativistic time-of-flight and Doppler effects are included fully in the code.
